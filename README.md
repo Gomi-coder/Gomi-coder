@@ -1,11 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=D1B2FF&height=300&section=header&text=TaeKyeong's%20Git&fontSize=90" />
 
 
-### Hi there I'm TaeKyeong-coder 👋
+### Hi there 👋
+- 🌱 I’m currently learning ...
 - nickName : Taegoming
-- my e-main : kimbling303@gmail.com
 - myApp down url(https://play.google.com/store/apps/details?id=com.womansafetaxi.SSWURainbowTaxitest)
 
+# 📫 How to reach me
+kimbling303@gmail.com
 
  ### ✨ I study... ✨
 
@@ -13,6 +15,7 @@
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
+
 
 
 <!--
