@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=TaeKyeong's%20Git&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=#D1B2FF&height=300&section=header&text=TaeKyeong's%20Git&fontSize=90" />
 
 
 ### Hi there I'm TaeKyeong-coder 👋
