@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there I'm TaeKyeong-coder 👋
 - nickName : Taegoming
+- my e-main : kimbling303@gmail.com
 - myApp down url(https://play.google.com/store/apps/details?id=com.womansafetaxi.SSWURainbowTaxitest)
 
 
