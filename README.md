@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=TaeTae's%20Git&fontSize=90" />
 ### Hi there I'm TaeKyeong-coder 👋
 - nickName : Taegoming
 - my e-main : kimbling303@gmail.com
