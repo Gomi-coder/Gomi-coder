@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 ### Hi there I'm TaeKyeong-coder 👋
 - nickName : Taegoming
 - my e-main : kimbling303@gmail.com
@@ -11,9 +12,6 @@
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <!--
 **TaeKyeong-coder/TaeKyeong-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
