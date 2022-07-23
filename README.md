@@ -27,7 +27,7 @@ kimbling303@gmail.com
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
-
+<img src="https://img.shields.io/badge/Kotlin-#D9E5FF?style=flat-square&logo=#7F52FF&logoColor=white"/></a>&nbsp 
 
 
 <!--
