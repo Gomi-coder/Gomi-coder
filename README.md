@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=A566FF&height=300&section=header&text=Taegoming's%20Git&fontSize=75" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=A566FF&height=300&section=header&text=Taegoming's%20Git&fontSize=75&fontColor=E8D9FF" />
+
 <br/><br/><br/>
 
 ## Hi there 👋
