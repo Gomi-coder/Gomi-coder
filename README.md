@@ -5,6 +5,11 @@
 - 🌱 I’m currently learning ...
 - nickName : Taegoming
 - myApp down url(https://play.google.com/store/apps/details?id=com.womansafetaxi.SSWURainbowTaxitest)
+- my Notion Page url(https://www.notion.so/45a01a8ebbf94ace95db9def906eba19)
+
+
+
+
 
 
 
@@ -14,6 +19,10 @@
 
 ### 📫 How to reach me
 kimbling303@gmail.com
+
+
+
+
 
 
 
