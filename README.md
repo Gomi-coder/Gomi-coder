@@ -26,7 +26,7 @@ kimbling303@gmail.com
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  <img src="https://img.shields.io/badge/AndroidStudio-40D1F5?style=flat-square&logo=AndroidStudio&logoColor=white"/>  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=GitLab&logoColor=white"/>
 <br/><br/><br/><br/><br/>
 ### 🔭 I’m currently working on ...
-- 22.03.22 ~ ing : http://www.mobipintech.com/
+- 22.03.21 ~ ing : http://www.mobipintech.com/
 
 <!--
 **TaeKyeong-coder/TaeKyeong-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
