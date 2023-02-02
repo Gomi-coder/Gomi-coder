@@ -8,6 +8,7 @@
 - myApp down url(https://play.google.com/store/apps/details?id=com.womansafetaxi.SSWURainbowTaxitest)
 - my Notion Page url(is private now)
 - my baekjoon url (https://www.acmicpc.net/user/tkkim303)
+- You should visit my jist, too.
 <br/><br/><br/><br/><br/> 
 ### 📫 How to reach me
 kimbling303@gmail.com
