@@ -3,16 +3,19 @@
 <br/><br/><br/>
 
 ## Hi there 👋
-- 🌱 I’m currently learning ...
 - nickName : Taegoming
-- myApp down url(https://play.google.com/store/apps/details?id=com.womansafetaxi.SSWURainbowTaxitest)
-- my Notion Page url(is private now)
-- my baekjoon url (https://www.acmicpc.net/user/tkkim303)
+- myApp down url is https://play.google.com/store/apps/details?id=com.womansafetaxi.SSWURainbowTaxitest
+- my Notion Page url(is private now, send me a request e-mail)
 - You should visit my jist, too.
-<br/><br/><br/><br/><br/> 
+- 🌱 I’m currently learning ...
+ - my baekjoon url is https://www.acmicpc.net/user/tkkim303
+
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkkim303)](https://solved.ac/tkkim303/)
+ - blog url is https://taetaegom.tistory.com/
+<br/><br/><br/>
 ### 📫 How to reach me
 kimbling303@gmail.com
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
  ### ✨ I study... ✨
 <img
@@ -25,11 +28,10 @@ kimbling303@gmail.com
 <img src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  <img src="https://img.shields.io/badge/AndroidStudio-40D1F5?style=flat-square&logo=AndroidStudio&logoColor=white"/>  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=GitLab&logoColor=white"/>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
+
 ### 🔭 I’m currently working on ...
 - 22.03.21 ~ 23.06.20 : http://www.mobipintech.com/
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkkim303)](https://solved.ac/tkkim303/)
 
 <!--
 **TaeKyeong-coder/TaeKyeong-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
