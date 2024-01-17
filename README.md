@@ -29,6 +29,8 @@ kimbling303@gmail.com
 ### 🔭 I’m currently working on ...
 - 22.03.21 ~ 23.06.20 : http://www.mobipintech.com/
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkkim303)](https://solved.ac/tkkim303/)
+
 <!--
 **TaeKyeong-coder/TaeKyeong-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
