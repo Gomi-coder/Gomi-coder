@@ -1,17 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=A566FF&height=300&section=header&text=Taegoming's%20Git&fontSize=75&fontColor=E8D9FF" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=A566FF&height=300&section=header&text=Gomi's%20Git&fontSize=75&fontColor=E8D9FF" />
 
 <br/><br/><br/>
 
 ## Hi there 👋
-- nickName : Taegoming
-- myApp down url is https://play.google.com/store/apps/details?id=com.womansafetaxi.SSWURainbowTaxitest
+- nickName : gomi
+- ~~myApp down url is https://play.google.com/store/apps/details?id=com.womansafetaxi.SSWURainbowTaxitest~~
 - my Notion Page url(is private now, send me a request e-mail)
 - You should visit my jist, too.
-- 🌱 I’m currently learning ...
- - my baekjoon url is https://www.acmicpc.net/user/tkkim303
+- 🌱 I’m currently working ...
+ - my baekjoon: [click Here](https://www.acmicpc.net/user/tkkim303)
+ - my T-story blog: [click Here](https://taetaegom.tistory.com/)
 
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkkim303)](https://solved.ac/tkkim303/)
- - blog url is https://taetaegom.tistory.com/
 <br/><br/><br/>
 ### 📫 How to reach me
 kimbling303@gmail.com
@@ -31,8 +31,8 @@ kimbling303@gmail.com
 <br/><br/><br/>
 
 ### 🔭 I’m currently working on ...
-- 22.03.21 ~ 23.06.20 : http://www.mobipintech.com/
-
+- 22.03.21 ~ 23.06.20: http://www.mobipintech.com/
+- 24.09.09 ~ ing: huinsystec
 <!--
 **TaeKyeong-coder/TaeKyeong-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
